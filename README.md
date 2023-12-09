@@ -1,4 +1,4 @@
-# Hi there, I'm Sun! 👋
+# Hi there, I'm Nill! 👋
 
 ## 🚀 About Me
 I'm experienced in Python, Bash and currently learning. I'm always eager to collaborate on open-source projects, especially those written in python.
