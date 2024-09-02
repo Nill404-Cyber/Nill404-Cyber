@@ -1,5 +1,5 @@
-# 👋 Hello, I'm Nill !
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=35&pause=100&random=false&width=435&lines=NILL+-+XD;PYTHON+PROGRAMMER)](https://git.io/typing-svg)
+##
 I'm a passionate Python programmer with a love for coding and problem-solving. Welcome to my GitHub profile!
 
 ## 🚀 About Me
