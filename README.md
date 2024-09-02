@@ -12,7 +12,7 @@ I'm a passionate Python programmer with a love for coding and problem-solving. W
 ## 🛠️ Skills
 
 - **Languages:** Python
-- **Libraries:** NumPy, Moviepy, Matplotlib, Scikit-Learn
+- **Libraries:** Selenium, NumPy, Moviepy, etc.
 - **Tools:** VS Code
 
 ## 📈 GitHub Stats
