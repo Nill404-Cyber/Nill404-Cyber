@@ -8,12 +8,11 @@ I'm a passionate Python programmer with a love for coding and problem-solving. W
 - 🔭 I’m working on various Python projects, including web development, data analysis, and automation.
 - 👯 I’m looking to collaborate on open-source Python projects.
 - 💬 Ask me about Python, Django, Flask, Data Science, and more!
-- 📫 How to reach me: [Your Email] | [LinkedIn Profile] | [Twitter Handle]
 
 ## 🛠️ Skills
 
-- **Languages:** Python, C#, HTML, CSS
-- **Libraries:** Pandas, NumPy, Moviepy, Matplotlib, Scikit-Learn
+- **Languages:** Python
+- **Libraries:** NumPy, Moviepy, Matplotlib, Scikit-Learn
 - **Tools:** VS Code
 
 ## 📈 GitHub Stats
